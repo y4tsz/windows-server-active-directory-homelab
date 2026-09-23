@@ -38,10 +38,14 @@ The goal of this lab was to gain practical experience with common Windows Server
 4. Group Policy
 Created and configured Group Policy Objects (GPOs) to practice centralized management of Windows clients.
 
-Examples of Policies configured:
+Policies configured:
 - Account lockout policies
-- Desktop restrictions
+- Password Policy
+- Desktop Wallpaper
 - Network drive mapping
+- Restrict Control Panel
+- Disable USB Devices
+- Restrict Logon to Service Account
 
 5. Windows 11 Domain client
 - Joined the Windows 11 client to the Active Directory domain.
