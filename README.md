@@ -2,7 +2,7 @@
 
 A hands-on IT support and system administration home lab built using VMware Workstation Pro. The lab was created to practice Windows Server, Active Directory, Group Policy, DNS, file sharing, permissions, and Windows client administration.
 
-# Lab Environment
+## Lab Environment
 
 - VMware Workstation Pro
 - Windows Server 2025
@@ -12,10 +12,10 @@ A hands-on IT support and system administration home lab built using VMware Work
 - Group Policy
 - Action1 RMM
 
-# Objectives
+## Objectives
 The goal of this lab was to gain practical experience with common Windows Server and IT support tasks in a virtualized environment.
 
-# What I practiced
+## What I practiced
 1. Virtual Machine Setup
 - Created a Windows Server 2025 virtual machine.
 - Created a Windows 11 Pro client virtual machine.
