@@ -1,4 +1,4 @@
-# windows-server-active-directory-homelab
+# Windows-Server-Active-Directory-Homelab
 
 A hands-on IT support and system administration home lab built using VMware Workstation Pro. The lab was created to practice Windows Server, Active Directory, Group Policy, DNS, file sharing, permissions, and Windows client administration.
 
