@@ -59,3 +59,53 @@ Examples of Policies configured:
 
 7. Action1 RMM
 I installed the Action1 agent on both the Windows Server and Windows 11 virtual machines to practice connecting devices to an RMM platform.
+
+## 1. VMware Lab Setup
+
+![VMware Lab Setup](screenshots/01-vmware.png)
+
+- Set up the Windows Server and Windows 11 client virtual machines using VMware Workstation.
+
+## 2. Active Directory
+
+![Active Directory](screenshots/02-active-directory.png)
+
+- Configured Active Directory Domain Services (AD DS) and used Active Directory Users and Computers to manage the domain environment.
+
+## 3. Organizational Units
+
+![Organizational Units](screenshots/03-organizational-units.png)
+
+- Created and organized Organizational Units (OUs) for managing users and computers within the Active Directory environment.
+
+## 4. Group Policy
+
+![Group Policy](screenshots/04-group-policy.png)
+
+- Created and applied basic Group Policy settings to practice centralized management of Windows client settings.
+
+## 5. DNS
+
+![DNS](screenshots/05-dns.png)
+
+- Configured and verified DNS as part of the Active Directory environment. This helped the domain and client machines communicate and resolve names within the lab network.
+
+## 6. Domain-Joined Client
+
+![Domain-Joined Client](screenshots/06-domain-joined-client.png)
+
+- Joined the Windows 11 client machine to the Active Directory domain and verified the domain membership.
+
+## 7. File Sharing
+
+![File Sharing](screenshots/07-file-sharing.png)
+
+- Configured a shared folder on the Windows Server and practiced basic sharing and permission settings for network access.
+
+## 8. Action1
+
+![Action1](screenshots/08-action1.png)
+
+- Connected the Windows client to Action1 to practice basic endpoint management and monitoring using an RMM platform.
+
+
